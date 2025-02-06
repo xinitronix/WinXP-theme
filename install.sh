@@ -11,3 +11,5 @@ cp rofi/win_xp.rasi ~/.config/rofi
 cp 1.jpg  ~/winxp
 cp -r pcmanfm ~/.config
 cp xinitrc ~/.xinitrc
+cp -r themes ~/.themes
+cp -r openbox ~/.config
