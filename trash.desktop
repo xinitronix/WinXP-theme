@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=pcmanfm /home/definitly/.local/share/Trash/files
+Name=Моя Корзина
+Comment=gedit
+Icon=emptytrash
+Comment[ru_RU]=
