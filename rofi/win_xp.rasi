@@ -290,7 +290,7 @@ textbox-log-off, textbox-power-off{
 
 icon-log-off{
     margin: 0 0 0 145px;
-    filename: "~/Documents/arch/rice/win_xp/icons/log_off.ico";
+    filename: "~/win_xp/icons/log_off.ico";
 }
 textbox-log-off{
     str: "Log Off";
@@ -298,7 +298,7 @@ textbox-log-off{
 
 icon-power-off{
     margin: 0 0 0 25px;
-    filename: "~/Documents/arch/rice/win_xp/icons/BAD_power_off.png";
+    filename: "~/win_xp/icons/BAD_power_off.png";
 }
 textbox-power-off{
     str: "Power Off Computer";
