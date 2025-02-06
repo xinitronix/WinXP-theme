@@ -19,7 +19,7 @@ window {
 	anchor:	west;
 	height:	53.9%;
 	width: 24%;
-        y-offset : 210px;
+        y-offset : 217px;
 	orientation: vertical;
 	children: [top-deco, mainbox, inputbar, bottom-deco];
     background-color: #5285C4;
@@ -71,7 +71,7 @@ icon-more{
     padding: 0 0 0 0;
     expand: false;
     size: 1.1em;
-    filename: "~/win_xp/icons/more_green_tri.ico";
+    filename: "~/winxp/icons/more_green_tri.ico";
 }
 
 right-half{
@@ -155,84 +155,84 @@ textbox-docs{
     str: "My Documents";
 }
 icon-docs{
-    filename: "~/win_xp/icons/my_documents.ico";
+    filename: "~/winxp/icons/my_documents.ico";
 }
 
 textbox-pics{
     str: "My Pictures";
 }
 icon-pics{
-    filename: "~/win_xp/icons/my_pics.ico";
+    filename: "~/winxp/icons/my_pics.ico";
 }
 
 textbox-musc{
     str: "My Music";
 }
 icon-musc{
-    filename: "~/win_xp/icons/my_music.ico";
+    filename: "~/winxp/icons/my_music.ico";
 }
 
 textbox-comp{
     str: "My Computer";
 }
 icon-comp{
-    filename: "~/win_xp/icons/my_computer.ico";
+    filename: "~/winxp/icons/my_computer.ico";
 }
 
 textbox-vids{
     str: "My Videos";
 }
 icon-vids{
-    filename: "~/win_xp/icons/my_vids.ico";
+    filename: "~/winxp/icons/my_vids.ico";
 }
 
 textbox-find{
     str: "Search";
 }
 icon-find{
-    filename: "~/win_xp/icons/find.ico";
+    filename: "~/winxp/icons/find.ico";
 }
 
 textbox-info{
     str: "Help and Support";
 }
 icon-info{
-    filename: "~/win_xp/icons/info.ico";
+    filename: "~/winxp/icons/info.ico";
 }
 
 textbox-net-set{
     str: "Network Settings";
 }
 icon-net-set{
-    filename: "~/win_xp/icons/net-set.ico";
+    filename: "~/winxp/icons/net-set.ico";
 }
 
 textbox-tasks{
     str: "Tasks";
 }
 icon-tasks{
-    filename: "~/win_xp/icons/tasks.ico";
+    filename: "~/winxp/icons/tasks.ico";
 }
 
 textbox-appearence{
     str: "Customize Appearence";
 }
 icon-appearence{
-    filename: "~/win_xp/icons/appearence.ico";
+    filename: "~/winxp/icons/appearence.ico";
 }
 
 textbox-cpanel{
     str: "Control Panel";
 }
 icon-cpanel{
-    filename: "~/win_xp/icons/cpanel.ico";
+    filename: "~/winxp/icons/cpanel.ico";
 }
 
 textbox-print{
     str: "Printers and Faxes";
 }
 icon-print{
-    filename: "~/win_xp/icons/print.ico";
+    filename: "~/winxp/icons/print.ico";
 }
 
 
@@ -290,7 +290,7 @@ textbox-log-off, textbox-power-off{
 
 icon-log-off{
     margin: 0 0 0 145px;
-    filename: "~/win_xp/icons/log_off.ico";
+    filename: "~/winxp/icons/log_off.ico";
 }
 textbox-log-off{
     str: "Log Off";
@@ -298,7 +298,7 @@ textbox-log-off{
 
 icon-power-off{
     margin: 0 0 0 25px;
-    filename: "~/win_xp/icons/BAD_power_off.png";
+    filename: "~/winxp/icons/BAD_power_off.png";
 }
 textbox-power-off{
     str: "Power Off Computer";
