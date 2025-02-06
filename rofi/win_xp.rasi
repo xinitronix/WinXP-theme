@@ -17,9 +17,9 @@
 window {
 	location: west;
 	anchor:	west;
-    margin: 43.9% 0 0 0;
-	height:	93.9%;
+	height:	53.9%;
 	width: 24%;
+        y-offset : 210px;
 	orientation: vertical;
 	children: [top-deco, mainbox, inputbar, bottom-deco];
     background-color: #5285C4;
